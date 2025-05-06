@@ -5,7 +5,7 @@ Pressing the same number cycles through its letters.
 
 A space " " is required to pause before repeating characters from the same button.
 
-* acts as a backspace.
+'*' acts as a backspace.
 
 # marks the end of the input and is required.
 
